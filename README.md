@@ -19,22 +19,22 @@ Criado via expo
     Imagens:
 
     01 - Tela de Login: 
-        <img src="./printscreens/01_telaLogin.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/01_telaLogin.jpeg?raw=true)
 
     02 - Tela de Login com Teclado: 
-        <img src="./printscreens/02_telaLoginTeclado.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/02_telaLoginTeclado.jpeg?raw=true)
 
     03 - Tela de Pesquisa: 
-        <img src="./printscreens/03_telaPesquisa.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/03_telaPesquisa.jpeg?raw=true)
 
     04 - Tela de Pesquisa: 
-        <img src="./printscreens/04_telaPesquisaErroDigitos.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/04_telaPesquisaErroDigitos.jpeg?raw=true)
 
     05 - Tela de Pesquisa: 
-        <img src="./printscreens/05_telaPesquisaErroCEP.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/05_telaPesquisaErroCEP.jpeg?raw=true)
 
     06 - Tela de Pesquisa: 
-        <img src="./printscreens/06_telaPesquisaResultado.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/06_telaPesquisaResultado.jpeg?raw=true)
 
     07 - Tela de Pesquisa: 
-        <img src="./printscreens/07_telaPesquisaResultado.jpeg">
+        ![alt text](https://github.com/andersonec/consumo_viaCEP.git/blob/master/printscreens/07_telaPesquisaResultado.jpeg?raw=true)
