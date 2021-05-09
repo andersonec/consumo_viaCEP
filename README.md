@@ -19,7 +19,10 @@ Criado via expo
     Imagens:
 
     01 - Tela de Login: 
-        ![01_telaLogin](https://user-images.githubusercontent.com/53611115/117585821-e07c2400-b0ea-11eb-92a5-5c6a8bf6e6f5.jpeg)
+    <HTML>
+    
+    </HTML>
+        <img src="https://user-images.githubusercontent.com/53611115/117585821-e07c2400-b0ea-11eb-92a5-5c6a8bf6e6f5.jpeg">
 
     02 - Tela de Login com Teclado: 
         ![02_telaLoginTeclado](https://user-images.githubusercontent.com/53611115/117585823-e114ba80-b0ea-11eb-8f6c-473c80dfccd5.jpeg)
