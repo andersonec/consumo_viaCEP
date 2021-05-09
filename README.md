@@ -18,17 +18,23 @@ Criado via expo
 
     Imagens:
 
-    01 - Tela de Login: ./printscreens/01_telaLogin.jpeg
+    01 - Tela de Login: 
+        <img src="./printscreens/01_telaLogin.jpeg">
 
-    02 - Tela de Login com Teclado: ./printscreens/02_telaLoginTeclado.jpeg
+    02 - Tela de Login com Teclado: 
+        <img src="./printscreens/02_telaLoginTeclado.jpeg">
 
-    03 - Tela de Pesquisa: ./printscreens/03_telaPesquisa.jpeg
+    03 - Tela de Pesquisa: 
+        <img src="./printscreens/03_telaPesquisa.jpeg">
 
-    04 - Tela de Pesquisa: ./printscreens/04_telaPesquisaErroDigitos.jpeg
+    04 - Tela de Pesquisa: 
+        <img src="./printscreens/04_telaPesquisaErroDigitos.jpeg">
 
-    05 - Tela de Pesquisa: ./printscreens/05_telaPesquisaErroCEP.jpeg
+    05 - Tela de Pesquisa: 
+        <img src="./printscreens/05_telaPesquisaErroCEP.jpeg">
 
-    06 - Tela de Pesquisa: ./printscreens/06_telaPesquisaResultado.jpeg
+    06 - Tela de Pesquisa: 
+        <img src="./printscreens/06_telaPesquisaResultado.jpeg">
 
-    07 - Tela de Pesquisa: ./printscreens/07_telaPesquisaResultado.jpeg
-    
+    07 - Tela de Pesquisa: 
+        <img src="./printscreens/07_telaPesquisaResultado.jpeg">
