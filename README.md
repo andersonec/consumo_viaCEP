@@ -10,16 +10,16 @@ Criado com expo
             Git;
             Para macOS: Watchman
             
-        Instale o expo no computador:
-            npm install --global expo-cli
+        Abra o terminal na pasta do projeto;
+        Execute o comando:
+            npm install
+            
+        Após a instalação, execute:
+            npm start
             
         Instale o app Expo no celular:
             ANDROID: https://play.google.com/store/apps/details?id=host.exp.exponent
             IOS: https://apps.apple.com/br/app/expo-go/id982107779
-            
-        Abra o terminal na pasta do projeto;
-        Execute o comando:
-            expo start
             
         Assim que o QR Code aparecer no terminal, escaneie com o aplicativo Expo no seu celular;
         Em seguida, você conseguirá visualizar a tela de inicio;
