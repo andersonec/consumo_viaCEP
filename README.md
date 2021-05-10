@@ -30,9 +30,8 @@ Criado com expo
                       "ambos sem as aspas".
         
         Feito login, digite o CEP que deseja receber informações;
-            Caso digite um CEP com quantidade de dígitos diferente de 8, ou com caracteres ou letras, abrirá uma tela de Alert solicitando que digite um CEP de 8 dígitos numérico.
-
-            Se o CEP digitado não existir no Banco de Dados do ViaCEP, abrirá uma tela de Alert avisando que o CEP não foi encontrado.
+        Caso digite um CEP com quantidade de dígitos diferente de 8, ou com caracteres ou letras, abrirá uma tela de Alert solicitando que digite um CEP de 8 dígitos numérico.
+        Se o CEP digitado não existir no Banco de Dados do ViaCEP, abrirá uma tela de Alert avisando que o CEP não foi encontrado.
 
   Imagens:
    
@@ -42,6 +41,7 @@ Criado com expo
         <img width="220px" heigth="360px" src ="https://user-images.githubusercontent.com/53611115/117585823-e114ba80-b0ea-11eb-8f6c-473c80dfccd5.jpeg">
     <div>
     
+   
     04 - Tela de Pesquisa: 
    
    <div  align ="center"> 
