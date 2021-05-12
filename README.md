@@ -51,6 +51,8 @@ Criado com expo
         <img width="220px" heigth="360px" src ="https://user-images.githubusercontent.com/53611115/117585828-e2de7e00-b0ea-11eb-9e47-84a3663f23c2.jpeg">
    <div>
 
+
+
 *HISTÓRICO*
 
     v 1.0.0
