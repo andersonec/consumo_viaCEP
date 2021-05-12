@@ -5,7 +5,7 @@
 Criado via expo 
     executar:
         expo start
-        
+    
     utilização:
         Na tela login preencha o campo Email com: "a@email.com"
                       preencha o campo Password com: "12345"
@@ -16,6 +16,14 @@ Criado via expo
 
             Se o CEP digitado não existir no Banco de Dados do ViaCEP, abrirá uma tela de Alert avisando que o CEP não foi encontrado.
 
+Histórico:
+    v 1.0.0:
+        - Projeto criado;
+        - View Login com campos de Login e Password, autenticação simples;
+        - View PesquisaCEP com campo de inserção de CEP para busca na API ViaCEP;
+    v 2.0.0:
+        - Inserido botão de Cadastro na view Login;
+        - Criado a View de Cadastro;
     Imagens:
 
     01 - Tela de Login: 

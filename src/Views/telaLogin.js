@@ -25,9 +25,15 @@ class Login extends Component {
         }
         else {
             // Se estiver ERRADO, abre caixa de ALERTA para aviso de erro
-            alert('Digite as credenciais válidas.')
+            alert('Digite as credenciais válidas.');
         }
     } 
+    cadastro = () => {
+        this.props.navigation.navigate('UserForm');
+    }
+    listaUsuario =() => {
+        this.props.navigation.navigate('UserList')
+    }
 
   render(){
     return (
@@ -62,6 +68,23 @@ class Login extends Component {
                 }>
                 <Text style = {styles.submitButtonText}>Login</Text>
             </TouchableHighlight>
+
+            <TouchableHighlight
+                style = {styles.botaoSubmit}
+                onPress = {
+                    () => this.cadastro()
+                }>
+                <Text style = {styles.submitButtonText}>Cadastro</Text>
+            </TouchableHighlight>
+            <StatusBar style="auto" />
+
+            <TouchableHighlight
+                style = {styles.botaoSubmit}
+                onPress = {
+                    () => this.listaUsuario()
+                }>
+                <Text style = {styles.submitButtonText}>Usuarios</Text>
+            </TouchableHighlight>
             <StatusBar style="auto" />
         </View>
     );
@@ -83,7 +106,7 @@ const styles = StyleSheet.create({
     },
     loginContainer: {
       flex: 1,
-      maxHeight: 250,
+      maxHeight: 180,
       alignItems: 'flex-start',
       justifyContent: 'center',
       flexDirection: 'column',
