@@ -53,11 +53,11 @@ Criado com expo
 
 *HISTÓRICO*
 
-v 1.0.0
-    - Projeto criado com Expo;
-    - Criada tela de Login com campos de Email e Password, autenticação genérica;
-    - Criada tela de Pesquisa com campo preenchivel de CEP, fazendo request à API ViaCEP;
+    v 1.0.0
+        - Projeto criado com Expo;
+        - Criada tela de Login com campos de Email e Password, autenticação genérica;
+        - Criada tela de Pesquisa com campo preenchivel de CEP, fazendo request à API ViaCEP;
 
-v 2.0.0
-    - Adicionadas telas de Cadastro e Listagem de usuários;
-    - Falta implementação;
+    v 2.0.0
+        - Adicionadas telas de Cadastro e Listagem de usuários;
+        - Falta implementação;
